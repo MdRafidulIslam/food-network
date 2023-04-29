@@ -1,0 +1,80 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-color {
+    color: orange;
+}
+
+h1 {
+    font-size: 70px;
+    color: gray;
+}
+
+h2 {
+    font-size: 40px;
+    color: gray;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.flexible img {
+    width: 100%;
+}
+
+.btn {
+    background-image: linear-gradient(orangered, salmon);
+    color: white;
+    border: 20px solid white;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 3%;
+}
+
+.banner {
+    background-image: url(food-network-main/images/shapes/7.png);
+}
+
+.center {
+    text-align: center;
+}
+
+.half {
+    width: 30%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 20px 20px;
+    border-radius: 20px;
+}
+
+.third-width {
+    width: 40%;
+    padding: 3%;
+}
+
+.subscriber {
+    margin-left: 60px;
+    margin-right: 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 20px;
+    background-color: black;
+}
+
+footer p {
+    color: white;
+}
